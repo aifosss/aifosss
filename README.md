@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aifosss
-- 👀 I’m interested in web app development and management
+- 👀 I’m interested in web app development and product design/management
 - 🌱 I’m currently learning HTML, CSS and Javascript
 
 <!---
